@@ -1,0 +1,9 @@
+.r_font{
+    font-family: var(--font);
+}
+.r_fontSecond{
+    font-family: var(--fontSecond);
+}
+.r_fontThird{
+    font-family: var(--fontThird);
+}

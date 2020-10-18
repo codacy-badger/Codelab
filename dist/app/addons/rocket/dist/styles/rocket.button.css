@@ -1,0 +1,12 @@
+.r_btn{
+    display: inline-block;
+padding: 13px 21px;
+font-size: 14px;
+font-weight: 600;
+background: transparen;
+border:1px solid var(--color);
+    color: var(--color);
+}
+.r_btn.r_btn_color{
+background: var(--color);
+}

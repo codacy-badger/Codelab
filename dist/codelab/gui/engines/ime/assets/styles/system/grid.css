@@ -1,0 +1,1503 @@
+
+
+.g:after {
+	content: " ";
+	display: block;
+	height: 0;
+	clear: both
+}
+
+.g .g1,
+.g .g11,
+.g .g22,
+.g .g33,
+.g .g44,
+.g .g55,
+.g .g66,
+.g .g77 ,
+.g .g88,
+.g .g99,
+.g .g1010,
+.g .g1111,
+.g .g1212 {
+	width: 100%
+}
+
+.g .g12 {
+	float: left;
+	width: 50%
+}
+
+.g .g13 {
+	float: left;
+	width: 33.33%
+}
+
+.g .g23 {
+	float: left;
+	width: 66.66%
+}
+
+.g .g33 {
+	float: left;
+	width: 100%
+}
+
+.g .g14 {
+	float: left;
+	width: 25%
+}
+
+.g .g24 {
+	float: left;
+	width: 50%
+}
+
+.g .g34 {
+	float: left;
+	width: 75%
+}
+
+.g .g15 {
+	float: left;
+	width: 20%
+}
+
+.g .g25 {
+	float: left;
+	width: 40%
+}
+
+.g .g35 {
+	float: left;
+	width: 60%
+}
+
+.g .g45 {
+	float: left;
+	width: 80%
+}
+
+.g .g16 {
+	float: left;
+	width: 16.66%
+}
+
+.g .g26 {
+	float: left;
+	width: 33.33%
+}
+
+.g .g36 {
+	float: left;
+	width: 20%
+}
+
+.g .g46 {
+	float: left;
+	width: 66.66%
+}
+
+.g .g56 {
+	float: left;
+	width: 86.66%
+}
+
+.g .g17 {
+	float: left;
+	width: 14.28%
+}
+
+.g .g27 {
+	float: left;
+	width: 28.57%
+}
+
+.g .g37 {
+	float: left;
+	width: 42.86%
+}
+
+.g .g47 {
+	float: left;
+	width: 57.14%
+}
+
+.g .g57 {
+	float: left;
+	width: 71.43%
+}
+
+.g .g67 {
+	float: left;
+	width: 85.71%
+}
+
+.g .g18 {
+	float: left;
+	width: 12.5%
+}
+
+.g .g28 {
+	float: left;
+	width: 25%
+}
+
+.g .g38 {
+	float: left;
+	width: 37.5%
+}
+
+.g .g48 {
+	float: left;
+	width: 50%
+}
+
+.g .g58 {
+	float: left;
+	width: 62.5%
+}
+
+.g .g68 {
+	float: left;
+	width: 75%
+}
+
+.g .g78 {
+	float: left;
+	width: 87.5%
+}
+
+.g .g19 {
+	float: left;
+	width: 11.11%
+}
+
+.g .g29 {
+	float: left;
+	width: 22.22%
+}
+
+.g .g39 {
+	float: left;
+	width: 33.33%
+}
+
+.g .g49 {
+	float: left;
+	width: 44.44%
+}
+
+.g .g59 {
+	float: left;
+	width: 55.56%
+}
+
+.g .g69 {
+	float: left;
+	width: 66.67%
+}
+
+.g .g79 {
+	float: left;
+	width: 77.78%
+}
+
+.g .g89 {
+	float: left;
+	width: 88.89%
+}
+
+.g .g110 {
+	float: left;
+	width: 10%
+}
+
+.g .g210 {
+	float: left;
+	width: 20%
+}
+
+.g .g310 {
+	float: left;
+	width: 30%
+}
+
+.g .g410 {
+	float: left;
+	width: 40%
+}
+
+.g .g510 {
+	float: left;
+	width: 50%
+}
+
+.g .g610 {
+	float: left;
+	width: 60%
+}
+
+.g .g710 {
+	float: left;
+	width: 70%
+}
+
+.g .g810 {
+	float: left;
+	width: 80%
+}
+
+.g .g910 {
+	float: left;
+	width: 90%
+}
+
+.g .g111 {
+	float: left;
+	width: 9.09%
+}
+
+.g .g211 {
+	float: left;
+	width: 18.18%
+}
+
+.g .g311 {
+	float: left;
+	width: 27.27%
+}
+
+.g .g411 {
+	float: left;
+	width: 36.36%
+}
+
+.g .g511 {
+	float: left;
+	width: 45.45%
+}
+
+.g .g611 {
+	float: left;
+	width: 54.55%
+}
+
+.g .g711 {
+	float: left;
+	width: 63.64%
+}
+
+.g .g811 {
+	float: left;
+	width: 72.73%
+}
+
+.g .g911 {
+	float: left;
+	width: 81.82%
+}
+
+.g .g1011 {
+	float: left;
+	width: 90.91%
+}
+
+.g .g112 {
+	float: left;
+	width: 8.33%
+}
+
+.g .g212 {
+	float: left;
+	width: 16.66%
+}
+
+.g .g312 {
+	float: left;
+	width: 25%
+}
+
+.g .g412 {
+	float: left;
+	width: 33.33%
+}
+
+.g .g512 {
+	float: left;
+	width: 41.66%
+}
+
+.g .g612 {
+	float: left;
+	width: 50%
+}
+
+.g .g712 {
+	float: left;
+	width: 58.33%
+}
+
+.g .g812 {
+	float: left;
+	width: 66.66%
+}
+
+.g .g912 {
+	float: left;
+	width: 75%
+}
+
+.g .g1012 {
+	float: left;
+	width: 83.33%
+}
+
+.g .g1112 {
+	float: left;
+	width: 91.66%
+}
+
+@media (max-width:1200px) {
+	.g .gl1,
+	.g .gl11,
+	.g .gl22,
+	.g .gl33,
+	.g .gl44,
+	.g .gl55,
+	.g .gl66,
+	.g .gl77 ,
+	.g .gl88,
+	.g .gl99,
+	.g .gl1010,
+	.g .gl1111,
+	.g .gl1212 {
+		width: 100%
+	}
+	.g .gl12 {
+		float: left;
+		width: 50%
+	}
+	.g .gl13 {
+		float: left;
+		width: 33.33%
+	}
+	.g .gl23 {
+		float: left;
+		width: 66.66%
+	}
+	.g .gl33 {
+		float: left;
+		width: 100%
+	}
+	.g .gl14 {
+		float: left;
+		width: 25%
+	}
+	.g .gl24 {
+		float: left;
+		width: 50%
+	}
+	.g .gl34 {
+		float: left;
+		width: 75%
+	}
+	.g .gl15 {
+		float: left;
+		width: 20%
+	}
+	.g .gl25 {
+		float: left;
+		width: 40%
+	}
+	.g .gl35 {
+		float: left;
+		width: 60%
+	}
+	.g .gl45 {
+		float: left;
+		width: 80%
+	}
+	.g .gl16 {
+		float: left;
+		width: 16.66%
+	}
+	.g .gl26 {
+		float: left;
+		width: 33.33%
+	}
+	.g .gl36 {
+		float: left;
+		width: 20%
+	}
+	.g .gl46 {
+		float: left;
+		width: 66.66%
+	}
+	.g .gl56 {
+		float: left;
+		width: 86.66%
+	}
+	.g .gl17 {
+		float: left;
+		width: 14.28%
+	}
+	.g .gl27 {
+		float: left;
+		width: 28.57%
+	}
+	.g .gl37 {
+		float: left;
+		width: 42.86%
+	}
+	.g .gl47 {
+		float: left;
+		width: 57.14%
+	}
+	.g .gl57 {
+		float: left;
+		width: 71.43%
+	}
+	.g .gl67 {
+		float: left;
+		width: 85.71%
+	}
+	.g .gl18 {
+		float: left;
+		width: 12.5%
+	}
+	.g .gl28 {
+		float: left;
+		width: 25%
+	}
+	.g .gl38 {
+		float: left;
+		width: 37.5%
+	}
+	.g .gl48 {
+		float: left;
+		width: 50%
+	}
+	.g .gl58 {
+		float: left;
+		width: 62.5%
+	}
+	.g .gl68 {
+		float: left;
+		width: 75%
+	}
+	.g .gl78 {
+		float: left;
+		width: 87.5%
+	}
+	.g .gl19 {
+		float: left;
+		width: 11.11%
+	}
+	.g .gl29 {
+		float: left;
+		width: 22.22%
+	}
+	.g .gl39 {
+		float: left;
+		width: 33.33%
+	}
+	.g .gl49 {
+		float: left;
+		width: 44.44%
+	}
+	.g .gl59 {
+		float: left;
+		width: 55.56%
+	}
+	.g .gl69 {
+		float: left;
+		width: 66.67%
+	}
+	.g .gl79 {
+		float: left;
+		width: 77.78%
+	}
+	.g .gl89 {
+		float: left;
+		width: 88.89%
+	}
+	.g .gl110 {
+		float: left;
+		width: 10%
+	}
+	.g .gl210 {
+		float: left;
+		width: 20%
+	}
+	.g .gl310 {
+		float: left;
+		width: 30%
+	}
+	.g .gl410 {
+		float: left;
+		width: 40%
+	}
+	.g .gl510 {
+		float: left;
+		width: 50%
+	}
+	.g .gl610 {
+		float: left;
+		width: 60%
+	}
+	.g .gl710 {
+		float: left;
+		width: 70%
+	}
+	.g .gl810 {
+		float: left;
+		width: 80%
+	}
+	.g .gl910 {
+		float: left;
+		width: 90%
+	}
+	.g .gl111 {
+		float: left;
+		width: 9.09%
+	}
+	.g .gl211 {
+		float: left;
+		width: 18.18%
+	}
+	.g .gl311 {
+		float: left;
+		width: 27.27%
+	}
+	.g .gl411 {
+		float: left;
+		width: 36.36%
+	}
+	.g .gl511 {
+		float: left;
+		width: 45.45%
+	}
+	.g .gl611 {
+		float: left;
+		width: 54.55%
+	}
+	.g .gl711 {
+		float: left;
+		width: 63.64%
+	}
+	.g .gl811 {
+		float: left;
+		width: 72.73%
+	}
+	.g .gl911 {
+		float: left;
+		width: 81.82%
+	}
+	.g .gl1011 {
+		float: left;
+		width: 90.91%
+	}
+	.g .gl112 {
+		float: left;
+		width: 8.33%
+	}
+	.g .gl212 {
+		float: left;
+		width: 16.66%
+	}
+	.g .gl312 {
+		float: left;
+		width: 25%
+	}
+	.g .gl412 {
+		float: left;
+		width: 33.33%
+	}
+	.g .gl512 {
+		float: left;
+		width: 41.66%
+	}
+	.g .gl612 {
+		float: left;
+		width: 50%
+	}
+	.g .gl712 {
+		float: left;
+		width: 58.33%
+	}
+	.g .gl812 {
+		float: left;
+		width: 66.66%
+	}
+	.g .gl912 {
+		float: left;
+		width: 75%
+	}
+	.g .gl1012 {
+		float: left;
+		width: 83.33%
+	}
+	.g .gl1112 {
+		float: left;
+		width: 91.66%
+	}
+}
+
+@media (max-width:992px) {
+	.g .gm1,
+	.g .gm11,
+	.g .gm22,
+	.g .gm33,
+	.g .gm44,
+	.g .gm55,
+	.g .gm66,
+	.g .gm77 ,
+	.g .gm88,
+	.g .gm99,
+	.g .gm1010,
+	.g .gm1111,
+	.g .gm1212 {
+		width: 100%
+	}
+	.g .gm12 {
+		float: left;
+		width: 50%
+	}
+	.g .gm13 {
+		float: left;
+		width: 33.33%
+	}
+	.g .gm23 {
+		float: left;
+		width: 66.66%
+	}
+	.g .gm33 {
+		float: left;
+		width: 100%
+	}
+	.g .gm14 {
+		float: left;
+		width: 25%
+	}
+	.g .gm24 {
+		float: left;
+		width: 50%
+	}
+	.g .gm34 {
+		float: left;
+		width: 75%
+	}
+	.g .gm15 {
+		float: left;
+		width: 20%
+	}
+	.g .gm25 {
+		float: left;
+		width: 40%
+	}
+	.g .gm35 {
+		float: left;
+		width: 60%
+	}
+	.g .gm45 {
+		float: left;
+		width: 80%
+	}
+	.g .gm16 {
+		float: left;
+		width: 16.66%
+	}
+	.g .gm26 {
+		float: left;
+		width: 33.33%
+	}
+	.g .gm36 {
+		float: left;
+		width: 20%
+	}
+	.g .gm46 {
+		float: left;
+		width: 66.66%
+	}
+	.g .gm56 {
+		float: left;
+		width: 86.66%
+	}
+	.g .gm17 {
+		float: left;
+		width: 14.28%
+	}
+	.g .gm27 {
+		float: left;
+		width: 28.57%
+	}
+	.g .gm37 {
+		float: left;
+		width: 42.86%
+	}
+	.g .gm47 {
+		float: left;
+		width: 57.14%
+	}
+	.g .gm57 {
+		float: left;
+		width: 71.43%
+	}
+	.g .gm67 {
+		float: left;
+		width: 85.71%
+	}
+	.g .gm18 {
+		float: left;
+		width: 12.5%
+	}
+	.g .gm28 {
+		float: left;
+		width: 25%
+	}
+	.g .gm38 {
+		float: left;
+		width: 37.5%
+	}
+	.g .gm48 {
+		float: left;
+		width: 50%
+	}
+	.g .gm58 {
+		float: left;
+		width: 62.5%
+	}
+	.g .gm68 {
+		float: left;
+		width: 75%
+	}
+	.g .gm78 {
+		float: left;
+		width: 87.5%
+	}
+	.g .gm19 {
+		float: left;
+		width: 11.11%
+	}
+	.g .gm29 {
+		float: left;
+		width: 22.22%
+	}
+	.g .gm39 {
+		float: left;
+		width: 33.33%
+	}
+	.g .gm49 {
+		float: left;
+		width: 44.44%
+	}
+	.g .gm59 {
+		float: left;
+		width: 55.56%
+	}
+	.g .gm69 {
+		float: left;
+		width: 66.67%
+	}
+	.g .gm79 {
+		float: left;
+		width: 77.78%
+	}
+	.g .gm89 {
+		float: left;
+		width: 88.89%
+	}
+	.g .gm110 {
+		float: left;
+		width: 10%
+	}
+	.g .gm210 {
+		float: left;
+		width: 20%
+	}
+	.g .gm310 {
+		float: left;
+		width: 30%
+	}
+	.g .gm410 {
+		float: left;
+		width: 40%
+	}
+	.g .gm510 {
+		float: left;
+		width: 50%
+	}
+	.g .gm610 {
+		float: left;
+		width: 60%
+	}
+	.g .gm710 {
+		float: left;
+		width: 70%
+	}
+	.g .gm810 {
+		float: left;
+		width: 80%
+	}
+	.g .gm910 {
+		float: left;
+		width: 90%
+	}
+	.g .gm111 {
+		float: left;
+		width: 9.09%
+	}
+	.g .gm211 {
+		float: left;
+		width: 18.18%
+	}
+	.g .gm311 {
+		float: left;
+		width: 27.27%
+	}
+	.g .gm411 {
+		float: left;
+		width: 36.36%
+	}
+	.g .gm511 {
+		float: left;
+		width: 45.45%
+	}
+	.g .gm611 {
+		float: left;
+		width: 54.55%
+	}
+	.g .gm711 {
+		float: left;
+		width: 63.64%
+	}
+	.g .gm811 {
+		float: left;
+		width: 72.73%
+	}
+	.g .gm911 {
+		float: left;
+		width: 81.82%
+	}
+	.g .gm1011 {
+		float: left;
+		width: 90.91%
+	}
+	.g .gm112 {
+		float: left;
+		width: 8.33%
+	}
+	.g .gm212 {
+		float: left;
+		width: 16.66%
+	}
+	.g .gm312 {
+		float: left;
+		width: 25%
+	}
+	.g .gm412 {
+		float: left;
+		width: 33.33%
+	}
+	.g .gm512 {
+		float: left;
+		width: 41.66%
+	}
+	.g .gm612 {
+		float: left;
+		width: 50%
+	}
+	.g .gm712 {
+		float: left;
+		width: 58.33%
+	}
+	.g .gm812 {
+		float: left;
+		width: 66.66%
+	}
+	.g .gm912 {
+		float: left;
+		width: 75%
+	}
+	.g .gm1012 {
+		float: left;
+		width: 83.33%
+	}
+	.g .gm1112 {
+		float: left;
+		width: 91.66%
+	}
+}
+
+@media (max-width:768px) {
+	.g .gs1,
+	.g .gs11,
+	.g .gs22,
+	.g .gs33,
+	.g .gs44,
+	.g .gs55,
+	.g .gs66,
+	.g .gs77 ,
+	.g .gs88,
+	.g .gs99,
+	.g .gs1010,
+	.g .gs1111,
+	.g .gs1212 {
+		width: 100%
+	}
+	.g .gs12 {
+		float: left;
+		width: 50%
+	}
+	.g .gs13 {
+		float: left;
+		width: 33.33%
+	}
+	.g .gs23 {
+		float: left;
+		width: 66.66%
+	}
+	.g .gs33 {
+		float: left;
+		width: 100%
+	}
+	.g .gs14 {
+		float: left;
+		width: 25%
+	}
+	.g .gs24 {
+		float: left;
+		width: 50%
+	}
+	.g .gs34 {
+		float: left;
+		width: 75%
+	}
+	.g .gs15 {
+		float: left;
+		width: 20%
+	}
+	.g .gs25 {
+		float: left;
+		width: 40%
+	}
+	.g .gs35 {
+		float: left;
+		width: 60%
+	}
+	.g .gs45 {
+		float: left;
+		width: 80%
+	}
+	.g .gs16 {
+		float: left;
+		width: 16.66%
+	}
+	.g .gs26 {
+		float: left;
+		width: 33.33%
+	}
+	.g .gs36 {
+		float: left;
+		width: 20%
+	}
+	.g .gs46 {
+		float: left;
+		width: 66.66%
+	}
+	.g .gs56 {
+		float: left;
+		width: 86.66%
+	}
+	.g .gs17 {
+		float: left;
+		width: 14.28%
+	}
+	.g .gs27 {
+		float: left;
+		width: 28.57%
+	}
+	.g .gs37 {
+		float: left;
+		width: 42.86%
+	}
+	.g .gs47 {
+		float: left;
+		width: 57.14%
+	}
+	.g .gs57 {
+		float: left;
+		width: 71.43%
+	}
+	.g .gs67 {
+		float: left;
+		width: 85.71%
+	}
+	.g .gs18 {
+		float: left;
+		width: 12.5%
+	}
+	.g .gs28 {
+		float: left;
+		width: 25%
+	}
+	.g .gs38 {
+		float: left;
+		width: 37.5%
+	}
+	.g .gs48 {
+		float: left;
+		width: 50%
+	}
+	.g .gs58 {
+		float: left;
+		width: 62.5%
+	}
+	.g .gs68 {
+		float: left;
+		width: 75%
+	}
+	.g .gs78 {
+		float: left;
+		width: 87.5%
+	}
+	.g .gs19 {
+		float: left;
+		width: 11.11%
+	}
+	.g .gs29 {
+		float: left;
+		width: 22.22%
+	}
+	.g .gs39 {
+		float: left;
+		width: 33.33%
+	}
+	.g .gs49 {
+		float: left;
+		width: 44.44%
+	}
+	.g .gs59 {
+		float: left;
+		width: 55.56%
+	}
+	.g .gs69 {
+		float: left;
+		width: 66.67%
+	}
+	.g .gs79 {
+		float: left;
+		width: 77.78%
+	}
+	.g .gs89 {
+		float: left;
+		width: 88.89%
+	}
+	.g .gs110 {
+		float: left;
+		width: 10%
+	}
+	.g .gs210 {
+		float: left;
+		width: 20%
+	}
+	.g .gs310 {
+		float: left;
+		width: 30%
+	}
+	.g .gs410 {
+		float: left;
+		width: 40%
+	}
+	.g .gs510 {
+		float: left;
+		width: 50%
+	}
+	.g .gs610 {
+		float: left;
+		width: 60%
+	}
+	.g .gs710 {
+		float: left;
+		width: 70%
+	}
+	.g .gs810 {
+		float: left;
+		width: 80%
+	}
+	.g .gs910 {
+		float: left;
+		width: 90%
+	}
+	.g .gs111 {
+		float: left;
+		width: 9.09%
+	}
+	.g .gs211 {
+		float: left;
+		width: 18.18%
+	}
+	.g .gs311 {
+		float: left;
+		width: 27.27%
+	}
+	.g .gs411 {
+		float: left;
+		width: 36.36%
+	}
+	.g .gs511 {
+		float: left;
+		width: 45.45%
+	}
+	.g .gs611 {
+		float: left;
+		width: 54.55%
+	}
+	.g .gs711 {
+		float: left;
+		width: 63.64%
+	}
+	.g .gs811 {
+		float: left;
+		width: 72.73%
+	}
+	.g .gs911 {
+		float: left;
+		width: 81.82%
+	}
+	.g .gs1011 {
+		float: left;
+		width: 90.91%
+	}
+	.g .gs112 {
+		float: left;
+		width: 8.33%
+	}
+	.g .gs212 {
+		float: left;
+		width: 16.66%
+	}
+	.g .gs312 {
+		float: left;
+		width: 25%
+	}
+	.g .gs412 {
+		float: left;
+		width: 33.33%
+	}
+	.g .gs512 {
+		float: left;
+		width: 41.66%
+	}
+	.g .gs612 {
+		float: left;
+		width: 50%
+	}
+	.g .gs712 {
+		float: left;
+		width: 58.33%
+	}
+	.g .gs812 {
+		float: left;
+		width: 66.66%
+	}
+	.g .gs912 {
+		float: left;
+		width: 75%
+	}
+	.g .gs1012 {
+		float: left;
+		width: 83.33%
+	}
+	.g .gs1112 {
+		float: left;
+		width: 91.66%
+	}
+}
+
+@media (max-width:576px) {
+	.g .gxs1,
+	.g .gxs11,
+	.g .gxs22,
+	.g .gxs33,
+	.g .gxs44,
+	.g .gxs55,
+	.g .gxs66,
+	.g .gxs77 ,
+	.g .gxs88,
+	.g .gxs99,
+	.g .gxs1010,
+	.g .gxs1111,
+	.g .gxs1212 {
+		width: 100%
+	}
+	.g .gxs12 {
+		float: left;
+		width: 50%
+	}
+	.g .gxs13 {
+		float: left;
+		width: 33.33%
+	}
+	.g .gxs23 {
+		float: left;
+		width: 66.66%
+	}
+	.g .gxs33 {
+		float: left;
+		width: 100%
+	}
+	.g .gxs14 {
+		float: left;
+		width: 25%
+	}
+	.g .gxs24 {
+		float: left;
+		width: 50%
+	}
+	.g .gxs34 {
+		float: left;
+		width: 75%
+	}
+	.g .gxs15 {
+		float: left;
+		width: 20%
+	}
+	.g .gxs25 {
+		float: left;
+		width: 40%
+	}
+	.g .gxs35 {
+		float: left;
+		width: 60%
+	}
+	.g .gxs45 {
+		float: left;
+		width: 80%
+	}
+	.g .gxs16 {
+		float: left;
+		width: 16.66%
+	}
+	.g .gxs26 {
+		float: left;
+		width: 33.33%
+	}
+	.g .gxs36 {
+		float: left;
+		width: 20%
+	}
+	.g .gxs46 {
+		float: left;
+		width: 66.66%
+	}
+	.g .gxs56 {
+		float: left;
+		width: 86.66%
+	}
+	.g .gxs17 {
+		float: left;
+		width: 14.28%
+	}
+	.g .gxs27 {
+		float: left;
+		width: 28.57%
+	}
+	.g .gxs37 {
+		float: left;
+		width: 42.86%
+	}
+	.g .gxs47 {
+		float: left;
+		width: 57.14%
+	}
+	.g .gxs57 {
+		float: left;
+		width: 71.43%
+	}
+	.g .gxs67 {
+		float: left;
+		width: 85.71%
+	}
+	.g .gxs18 {
+		float: left;
+		width: 12.5%
+	}
+	.g .gxs28 {
+		float: left;
+		width: 25%
+	}
+	.g .gxs38 {
+		float: left;
+		width: 37.5%
+	}
+	.g .gxs48 {
+		float: left;
+		width: 50%
+	}
+	.g .gxs58 {
+		float: left;
+		width: 62.5%
+	}
+	.g .gxs68 {
+		float: left;
+		width: 75%
+	}
+	.g .gxs78 {
+		float: left;
+		width: 87.5%
+	}
+	.g .gxs19 {
+		float: left;
+		width: 11.11%
+	}
+	.g .gxs29 {
+		float: left;
+		width: 22.22%
+	}
+	.g .gxs39 {
+		float: left;
+		width: 33.33%
+	}
+	.g .gxs49 {
+		float: left;
+		width: 44.44%
+	}
+	.g .gxs59 {
+		float: left;
+		width: 55.56%
+	}
+	.g .gxs69 {
+		float: left;
+		width: 66.67%
+	}
+	.g .gxs79 {
+		float: left;
+		width: 77.78%
+	}
+	.g .gxs89 {
+		float: left;
+		width: 88.89%
+	}
+	.g .gxs110 {
+		float: left;
+		width: 10%
+	}
+	.g .gxs210 {
+		float: left;
+		width: 20%
+	}
+	.g .gxs310 {
+		float: left;
+		width: 30%
+	}
+	.g .gxs410 {
+		float: left;
+		width: 40%
+	}
+	.g .gxs510 {
+		float: left;
+		width: 50%
+	}
+	.g .gxs610 {
+		float: left;
+		width: 60%
+	}
+	.g .gxs710 {
+		float: left;
+		width: 70%
+	}
+	.g .gxs810 {
+		float: left;
+		width: 80%
+	}
+	.g .gxs910 {
+		float: left;
+		width: 90%
+	}
+	.g .gxs111 {
+		float: left;
+		width: 9.09%
+	}
+	.g .gxs211 {
+		float: left;
+		width: 18.18%
+	}
+	.g .gxs311 {
+		float: left;
+		width: 27.27%
+	}
+	.g .gxs411 {
+		float: left;
+		width: 36.36%
+	}
+	.g .gxs511 {
+		float: left;
+		width: 45.45%
+	}
+	.g .gxs611 {
+		float: left;
+		width: 54.55%
+	}
+	.g .gxs711 {
+		float: left;
+		width: 63.64%
+	}
+	.g .gxs811 {
+		float: left;
+		width: 72.73%
+	}
+	.g .gxs911 {
+		float: left;
+		width: 81.82%
+	}
+	.g .gxs1011 {
+		float: left;
+		width: 90.91%
+	}
+	.g .gxs112 {
+		float: left;
+		width: 8.33%
+	}
+	.g .gxs212 {
+		float: left;
+		width: 16.66%
+	}
+	.g .gxs312 {
+		float: left;
+		width: 25%
+	}
+	.g .gxs412 {
+		float: left;
+		width: 33.33%
+	}
+	.g .gxs512 {
+		float: left;
+		width: 41.66%
+	}
+	.g .gxs612 {
+		float: left;
+		width: 50%
+	}
+	.g .gxs712 {
+		float: left;
+		width: 58.33%
+	}
+	.g .gxs812 {
+		float: left;
+		width: 66.66%
+	}
+	.g .gxs912 {
+		float: left;
+		width: 75%
+	}
+	.g .gxs1012 {
+		float: left;
+		width: 83.33%
+	}
+	.g .gxs1112 {
+		float: left;
+		width: 91.66%
+	}
+}

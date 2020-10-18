@@ -1,0 +1,79 @@
+.inp
+{
+    width: 100%;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    border: 1px solid #dde1ec;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    color: #595c65;
+    padding: 8px 14px;
+    position: relative;
+    font-size: 16px;
+    /*! font-weight: 600; */
+    font-weight: 500;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    height:42px;
+    background-color: white;
+}
+input.inp[type="color"]{
+padding:8px;
+}
+
+
+input.inp.xl,
+select.inp.xl,
+textarea.inp.xl
+{
+
+    font-size: 26px;
+}
+input.inp.l,
+select.inp.l,
+textarea.inp.l
+{
+
+    font-size: 20px;
+}
+
+input.inp.s,
+select.inp.s,
+textarea.inp.s
+{
+
+    font-size: 15px;
+    padding: 5px 14px;
+}
+
+input.inp.xs,
+select.inp.xs,
+textarea.inp.xs
+{
+
+    font-size: 13px;
+    padding: 4px 14px;
+}
+
+
+select.inp{
+    cursor: pointer;
+}
+select.inp[multiple] {
+    height: auto;
+    padding:10px 5px;
+}
+select.inp > option{
+    padding:3px 10px;
+}
+
+textarea.inp
+{
+
+    resize: vertical;
+    min-height: 86px;
+}

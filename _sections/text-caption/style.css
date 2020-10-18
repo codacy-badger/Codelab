@@ -1,0 +1,48 @@
+
+
+	 section.text-caption{
+		padding: 50px 0px;
+		text-align: center;
+	}
+	 section.text-caption.dark{
+background-color: var(--colorSecond);
+color: white;
+	}
+	 section.text-caption:after{
+   content: " ";
+   display: block;
+   height: 0;
+   clear: both;
+
+}
+
+ 
+	 section.text-caption .line{
+
+	text-align: center;
+	margin-bottom: 10px;
+	}
+
+	 section.text-caption .line .inner{
+
+	background-color: #17a185;
+	display: inline-block;
+	width: 75px;
+	height: 2px;
+	}
+
+
+	 section.text-caption h1{
+
+
+	/*! color: #676a6c; */
+	font-size: 30px;
+	font-weight: 200;
+	margin-bottom: 12px;
+	}
+
+
+	 section.text-caption h4{
+
+	font-size: 16px;
+	}

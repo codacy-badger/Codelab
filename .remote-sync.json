@@ -1,0 +1,16 @@
+{
+  "uploadOnSave": true,
+  "hostname": "g3ck.atthost24.pl",
+  "source": "dist",
+  "target": "",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**",
+    ".htaccess"
+  ],
+  "watch": [],
+  "transport": "ftp",
+  "port": "21",
+  "username": "g3ck_psyll",
+  "password": "Nt0qZL0PB24fK"
+}

@@ -1,0 +1,747 @@
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-bottom: 20px;
+    font-family: inherit;
+    line-height: 1.2;
+    font-weight: 600;
+}
+
+.h1,
+h1 {
+    font-size: 48px;
+}
+
+.h2,
+h2 {
+    font-size: 40px;
+}
+
+.h3,
+h3 {
+    font-size: 36px;
+}
+
+.h4,
+h4 {
+    font-size: 26px;
+}
+
+.h5,
+h5 {
+    font-size: 22px;
+}
+
+.h6,
+h6 {
+    font-size: 18px;
+}
+
+.h1.r_hdr,
+.h2.r_hdr,
+.h3.r_hdr,
+.h4.r_hdr,
+.h5.r_hdr,
+.h6.r_hdr,
+h1.r_hdr,
+h2.r_hdr,
+h3.r_hdr,
+h4.r_hdr,
+h5.r_hdr,
+h6.r_hdr {
+    font-weight: 300;
+}
+
+.h1.r_hdr, h1.r_hdr {
+    font-size: 78px;
+    line-height: 1;
+    font-weight: 300;
+}
+
+.h2.r_hdr, h2.r_hdr {
+    font-size: 64px;
+    line-height: 1.05;
+    font-weight: 300;
+}
+
+.h3.r_hdr, h3.r_hdr {
+    font-size: 52px;
+    line-height: 1.2;
+    font-weight: 300;
+}
+
+.h4.r_hdr, h4.r_hdr {
+    font-size: 40px;
+    line-height: 1.2;
+    font-weight: 300;
+}
+
+.h5.r_hdr, h5.r_hdr {
+    font-size: 32px;
+    line-height: 1.25;
+    font-weight: 300;
+}
+
+.h6.r_hdr, h6.r_hdr {
+    font-size: 24px;
+    line-height: 1.3;
+    font-weight: 300;
+}
+
+.h1.slim, h1.slim {
+    font-weight: 100;
+}
+
+.h2.slim, h2.slim {
+    font-weight: 100;
+}
+
+.h3.slim, h3.slim {
+    font-weight: 100;
+}
+
+.h4.slim, h4.slim {
+    font-weight: 100;
+}
+
+.h5.slim, h5.slim {
+    font-weight: 100;
+}
+
+.h6.slim, h6.slim {
+    font-weight: 100;
+}
+
+.h1.fat, h1.fat {
+    font-weight: 800;
+}
+
+.h2.fat, h2.fat {
+    font-weight: 800;
+}
+
+.h3.fat, h3.fat {
+    font-weight: 800;
+}
+
+.h4.fat, h4.fat {
+    font-weight: 800;
+}
+
+.h5.fat, h5.fat {
+    font-weight: 800;
+}
+
+.h6.fat, h6.fat {
+    font-weight: 800;
+}
+
+@media (max-width:  1200px) { /* @breakpoint[L] */
+    .h1,
+    .h2,
+    .h3,
+    .h4,
+    .h5,
+    .h6,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        margin-bottom: 20px;
+        font-family: inherit;
+        line-height: 1.2;
+        font-weight: 600;
+    }
+
+    .h1,
+    h1 {
+        font-size: 48px;
+    }
+
+    .h2,
+    h2 {
+        font-size: 40px;
+    }
+
+    .h3,
+    h3 {
+        font-size: 36px;
+    }
+
+    .h4,
+    h4 {
+        font-size: 26px;
+    }
+
+    .h5,
+    h5 {
+        font-size: 22px;
+    }
+
+    .h6,
+    h6 {
+        font-size: 18px;
+    }
+
+    .h1.r_hdr,
+    .h2.r_hdr,
+    .h3.r_hdr,
+    .h4.r_hdr,
+    .h5.r_hdr,
+    .h6.r_hdr,
+    h1.r_hdr,
+    h2.r_hdr,
+    h3.r_hdr,
+    h4.r_hdr,
+    h5.r_hdr,
+    h6.r_hdr {
+        font-weight: 300;
+    }
+
+    .h1.r_hdr, h1.r_hdr {
+        font-size: 78px;
+        line-height: 1;
+        font-weight: 300;
+    }
+
+    .h2.r_hdr, h2.r_hdr {
+        font-size: 64px;
+        line-height: 1.05;
+        font-weight: 300;
+    }
+
+    .h3.r_hdr, h3.r_hdr {
+        font-size: 52px;
+        line-height: 1.2;
+        font-weight: 300;
+    }
+
+    .h4.r_hdr, h4.r_hdr {
+        font-size: 40px;
+        line-height: 1.2;
+        font-weight: 300;
+    }
+
+    .h5.r_hdr, h5.r_hdr {
+        font-size: 32px;
+        line-height: 1.25;
+        font-weight: 300;
+    }
+
+    .h6.r_hdr, h6.r_hdr {
+        font-size: 24px;
+        line-height: 1.3;
+        font-weight: 300;
+    }
+
+    .h1.slim, h1.slim {
+        font-weight: 100;
+    }
+
+    .h2.slim, h2.slim {
+        font-weight: 100;
+    }
+
+    .h3.slim, h3.slim {
+        font-weight: 100;
+    }
+
+    .h4.slim, h4.slim {
+        font-weight: 100;
+    }
+
+    .h5.slim, h5.slim {
+        font-weight: 100;
+    }
+
+    .h6.slim, h6.slim {
+        font-weight: 100;
+    }
+
+    .h1.fat, h1.fat {
+        font-weight: 800;
+    }
+
+    .h2.fat, h2.fat {
+        font-weight: 800;
+    }
+
+    .h3.fat, h3.fat {
+        font-weight: 800;
+    }
+
+    .h4.fat, h4.fat {
+        font-weight: 800;
+    }
+
+    .h5.fat, h5.fat {
+        font-weight: 800;
+    }
+
+    .h6.fat, h6.fat {
+        font-weight: 800;
+    }
+
+}
+
+/* [M] Medium */
+@media (max-width:  992px) { /* @breakpoint[M] */
+    .h1,
+    .h2,
+    .h3,
+    .h4,
+    .h5,
+    .h6,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        margin-bottom: 20px;
+        font-family: inherit;
+        line-height: 1.2;
+        font-weight: 600;
+    }
+
+    .h1,
+    h1 {
+        font-size: 48px;
+    }
+
+    .h2,
+    h2 {
+        font-size: 40px;
+    }
+
+    .h3,
+    h3 {
+        font-size: 36px;
+    }
+
+    .h4,
+    h4 {
+        font-size: 26px;
+    }
+
+    .h5,
+    h5 {
+        font-size: 22px;
+    }
+
+    .h6,
+    h6 {
+        font-size: 18px;
+    }
+
+    .h1.r_hdr,
+    .h2.r_hdr,
+    .h3.r_hdr,
+    .h4.r_hdr,
+    .h5.r_hdr,
+    .h6.r_hdr,
+    h1.r_hdr,
+    h2.r_hdr,
+    h3.r_hdr,
+    h4.r_hdr,
+    h5.r_hdr,
+    h6.r_hdr {
+        font-weight: 300;
+    }
+
+    .h1.r_hdr, h1.r_hdr {
+        font-size: 78px;
+        line-height: 1;
+        font-weight: 300;
+    }
+
+    .h2.r_hdr, h2.r_hdr {
+        font-size: 64px;
+        line-height: 1.05;
+        font-weight: 300;
+    }
+
+    .h3.r_hdr, h3.r_hdr {
+        font-size: 52px;
+        line-height: 1.2;
+        font-weight: 300;
+    }
+
+    .h4.r_hdr, h4.r_hdr {
+        font-size: 40px;
+        line-height: 1.2;
+        font-weight: 300;
+    }
+
+    .h5.r_hdr, h5.r_hdr {
+        font-size: 32px;
+        line-height: 1.25;
+        font-weight: 300;
+    }
+
+    .h6.r_hdr, h6.r_hdr {
+        font-size: 24px;
+        line-height: 1.3;
+        font-weight: 300;
+    }
+
+    .h1.slim, h1.slim {
+        font-weight: 100;
+    }
+
+    .h2.slim, h2.slim {
+        font-weight: 100;
+    }
+
+    .h3.slim, h3.slim {
+        font-weight: 100;
+    }
+
+    .h4.slim, h4.slim {
+        font-weight: 100;
+    }
+
+    .h5.slim, h5.slim {
+        font-weight: 100;
+    }
+
+    .h6.slim, h6.slim {
+        font-weight: 100;
+    }
+
+    .h1.fat, h1.fat {
+        font-weight: 800;
+    }
+
+    .h2.fat, h2.fat {
+        font-weight: 800;
+    }
+
+    .h3.fat, h3.fat {
+        font-weight: 800;
+    }
+
+    .h4.fat, h4.fat {
+        font-weight: 800;
+    }
+
+    .h5.fat, h5.fat {
+        font-weight: 800;
+    }
+
+    .h6.fat, h6.fat {
+        font-weight: 800;
+    }
+
+}
+
+@media (max-width:  768px) { /* @breakpoint[S] */
+    .h1,
+    .h2,
+    .h3,
+    .h4,
+    .h5,
+    .h6,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        margin-bottom: 20px;
+        font-family: inherit;
+        line-height: 1.2;
+        font-weight: 600;
+    }
+
+    .h1,
+    h1 {
+        font-size: 48px;
+    }
+
+    .h2,
+    h2 {
+        font-size: 40px;
+    }
+
+    .h3,
+    h3 {
+        font-size: 36px;
+    }
+
+    .h4,
+    h4 {
+        font-size: 26px;
+    }
+
+    .h5,
+    h5 {
+        font-size: 22px;
+    }
+
+    .h6,
+    h6 {
+        font-size: 18px;
+    }
+
+    .h1.r_hdr,
+    .h2.r_hdr,
+    .h3.r_hdr,
+    .h4.r_hdr,
+    .h5.r_hdr,
+    .h6.r_hdr,
+    h1.r_hdr,
+    h2.r_hdr,
+    h3.r_hdr,
+    h4.r_hdr,
+    h5.r_hdr,
+    h6.r_hdr {
+        font-weight: 300;
+    }
+
+    .h1.r_hdr, h1.r_hdr {
+        font-size: 78px;
+        line-height: 1;
+        font-weight: 300;
+    }
+
+    .h2.r_hdr, h2.r_hdr {
+        font-size: 64px;
+        line-height: 1.05;
+        font-weight: 300;
+    }
+
+    .h3.r_hdr, h3.r_hdr {
+        font-size: 52px;
+        line-height: 1.2;
+        font-weight: 300;
+    }
+
+    .h4.r_hdr, h4.r_hdr {
+        font-size: 40px;
+        line-height: 1.2;
+        font-weight: 300;
+    }
+
+    .h5.r_hdr, h5.r_hdr {
+        font-size: 32px;
+        line-height: 1.25;
+        font-weight: 300;
+    }
+
+    .h6.r_hdr, h6.r_hdr {
+        font-size: 24px;
+        line-height: 1.3;
+        font-weight: 300;
+    }
+
+    .h1.slim, h1.slim {
+        font-weight: 100;
+    }
+
+    .h2.slim, h2.slim {
+        font-weight: 100;
+    }
+
+    .h3.slim, h3.slim {
+        font-weight: 100;
+    }
+
+    .h4.slim, h4.slim {
+        font-weight: 100;
+    }
+
+    .h5.slim, h5.slim {
+        font-weight: 100;
+    }
+
+    .h6.slim, h6.slim {
+        font-weight: 100;
+    }
+
+    .h1.fat, h1.fat {
+        font-weight: 800;
+    }
+
+    .h2.fat, h2.fat {
+        font-weight: 800;
+    }
+
+    .h3.fat, h3.fat {
+        font-weight: 800;
+    }
+
+    .h4.fat, h4.fat {
+        font-weight: 800;
+    }
+
+    .h5.fat, h5.fat {
+        font-weight: 800;
+    }
+
+    .h6.fat, h6.fat {
+        font-weight: 800;
+    }
+
+}
+
+@media (max-width:  576px) { /* @breakpoint[XS] */
+    .h1,
+    .h2,
+    .h3,
+    .h4,
+    .h5,
+    .h6,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        margin-bottom: 20px;
+        font-family: inherit;
+        line-height: 1.2;
+        font-weight: 600;
+    }
+
+    .h1,
+    h1 {
+        font-size: 48px;
+    }
+
+    .h2,
+    h2 {
+        font-size: 40px;
+    }
+
+    .h3,
+    h3 {
+        font-size: 36px;
+    }
+
+    .h4,
+    h4 {
+        font-size: 26px;
+    }
+
+    .h5,
+    h5 {
+        font-size: 22px;
+    }
+
+    .h6,
+    h6 {
+        font-size: 18px;
+    }
+
+    .h1.r_hdr,
+    .h2.r_hdr,
+    .h3.r_hdr,
+    .h4.r_hdr,
+    .h5.r_hdr,
+    .h6.r_hdr,
+    h1.r_hdr,
+    h2.r_hdr,
+    h3.r_hdr,
+    h4.r_hdr,
+    h5.r_hdr,
+    h6.r_hdr {
+        font-weight: 300;
+    }
+
+    .h1.r_hdr, h1.r_hdr {
+        font-size: 78px;
+        line-height: 1;
+        font-weight: 300;
+    }
+
+    .h2.r_hdr, h2.r_hdr {
+        font-size: 64px;
+        line-height: 1.05;
+        font-weight: 300;
+    }
+
+    .h3.r_hdr, h3.r_hdr {
+        font-size: 52px;
+        line-height: 1.2;
+        font-weight: 300;
+    }
+
+    .h4.r_hdr, h4.r_hdr {
+        font-size: 40px;
+        line-height: 1.2;
+        font-weight: 300;
+    }
+
+    .h5.r_hdr, h5.r_hdr {
+        font-size: 32px;
+        line-height: 1.25;
+        font-weight: 300;
+    }
+
+    .h6.r_hdr, h6.r_hdr {
+        font-size: 24px;
+        line-height: 1.3;
+        font-weight: 300;
+    }
+
+    .h1.slim, h1.slim {
+        font-weight: 100;
+    }
+
+    .h2.slim, h2.slim {
+        font-weight: 100;
+    }
+
+    .h3.slim, h3.slim {
+        font-weight: 100;
+    }
+
+    .h4.slim, h4.slim {
+        font-weight: 100;
+    }
+
+    .h5.slim, h5.slim {
+        font-weight: 100;
+    }
+
+    .h6.slim, h6.slim {
+        font-weight: 100;
+    }
+
+    .h1.fat, h1.fat {
+        font-weight: 800;
+    }
+
+    .h2.fat, h2.fat {
+        font-weight: 800;
+    }
+
+    .h3.fat, h3.fat {
+        font-weight: 800;
+    }
+
+    .h4.fat, h4.fat {
+        font-weight: 800;
+    }
+
+    .h5.fat, h5.fat {
+        font-weight: 800;
+    }
+
+    .h6.fat, h6.fat {
+        font-weight: 800;
+    }
+
+}

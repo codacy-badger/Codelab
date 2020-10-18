@@ -1,0 +1,111 @@
+/* ##  BANER */
+section.baner {
+    position: fixed;
+    min-height: 800px;
+    background: #234c71;
+    background: -moz-linear-gradient(top, #234c71 0%, #183254 100%);
+    background: -webkit-linear-gradient(top, #234c71 0%, #183254 100%);
+    background: linear-gradient(to bottom, #1b3c68 0%, #000 100%);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+    overflow: hidden;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#234c 71', endColorstr='#183254', GradientType=0);
+    height: 100vh;
+    top: 0;
+    left: 0;
+    right: 0;
+    border: 0;
+    z-index: 1;
+}
+
+
+section.baner.logged .container{
+top:225px;
+    text-align: center;
+}
+
+
+section.baner .right .pass {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.1);
+}
+
+section.baner .right .pass a {
+    color: rgba(255, 255, 255, 0.4);
+}
+
+section.baner .right .pass a:hover {
+    padding-bottom: 2px;
+    border-bottom: 1px solid var(--colorDarker);
+    color: rgba(255, 255, 255, 1);
+}
+
+section.baner .left h3 span {
+    font-weight: 600;
+    display: block;
+}
+
+section.baner .wave {
+    position: absolute;
+    bottom: -7px;
+    width: 100%;
+    z-index: 1;
+    display: none;
+    top: -128px;
+}
+
+section.baner .wave svg {
+    width: 100%;
+}
+
+section.baner .paralax {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.5;
+}
+
+section.baner .paralax .outer {
+    position: relative;
+    height: 100%;
+}
+
+section.baner .paralax .layerParalax {
+    display: block;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+section.baner .paralax .layerParalax.layer1 {
+    z-index: 1;
+    top: 188px;
+}
+
+section.baner .paralax .layerParalax.layer2 {
+    z-index: 2;
+    top: 308px;
+}
+
+section.baner .paralax .layerParalax.layer3 {
+    z-index: 3;
+    top: 455px;
+}
+
+section.baner .paralax .layerParalax.layer4 {
+    z-index: 4;
+    top: 650px;
+}
+
+section.baner .paralax .layerParalax.layer4 img {
+    bottom: -200px;
+}

@@ -1,0 +1,77 @@
+:root {
+  /* MAIN COLORS ########## */
+      --colorLighter:#4676aa;
+      --colorLight:#375f8a;
+      --color:#29507b;
+      --colorDark:#193d65;
+      --colorDarker:#14263b;
+
+      --colorSecond:#FF6384;
+      --colorSecondLight:#f6a0b2;
+      --colorSecondDark:#a11331;
+
+      --colorThird:#ff6c00;
+      --colorThirdLight:#fcac4d;
+      --colorThirdDark:#b44c00;
+
+ /* MAIN ########## */
+      --silverLight:#f9f9f9;
+      --silver:#e5e5e5;
+      --silverDark:#b6b6b6;
+
+      --lightLighter:#4676aa;
+      --light:#29507b;
+      --lightDarker:#193d65;
+
+      --lightLighter:#4676aa;
+      --light:#29507b;
+      --lightDarker:#193d65;
+
+      --blackLighter:#4676aa;
+      --black:#29507b;
+      --blackDarker:#193d65;
+
+      --blueLight:#4676aa;
+      --blue:#29507b;
+      --blueDark:#193d65;
+
+      --purpleLight:#4676aa;
+      --purple:#29507b;
+      --purpleDark:#193d65;
+
+      --pinkLight:#4676aa;
+      --pink:#29507b;
+      --pinkDark:#193d65;
+
+      --greenLight:#4676aa;
+      --green:#8abf32;
+      --greenDark:#5c831b;
+
+      --yellowLight:#4676aa;
+      --yellow:#ffd43b;
+      --yellowDark:#193d65;
+
+      --orangeLight:#4676aa;
+      --orange:#29507b;
+      --orangeDark:#193d65;
+
+      --redLight:#f78ea4;
+      --red:#e83c60;
+      --redDark:#cb2b4c;
+
+      --brownLight:#4676aa;
+      --brown:#29507b;
+      --brownDark:#193d65;
+
+  /* CONTAINER ########## */
+      --containerWidth: 1140px;
+      --containerWidthL: 960px;
+      --containerWidthM: 720px;
+      --containerWidthS: 540px;
+      --containerWidthXS: 100%;
+      --containerPadding: 0;
+      --containerPaddingL: 0;
+      --containerPaddingM: 0;
+      --containerPaddingS: 0;
+      --containerPaddingXS: 0 15px;
+}

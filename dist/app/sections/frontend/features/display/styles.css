@@ -1,0 +1,65 @@
+section.featuresDisplay{
+  background-color: white;
+  position: relative;
+  z-index: 2;
+
+  padding: 75px 0;
+  text-align: center;
+}
+
+
+ section.featuresDisplay .outer .single{
+
+    width: 282px;
+    display: inline-block;
+    vertical-align: top;
+    border-right: 1px solid #e7e7e7;
+}
+section.featuresDisplay .outer .single:last-of-type{
+
+    border: unset;
+}
+   section.featuresDisplay .outer .single .inner{
+
+    position: relative;
+    height: 364px;
+}
+
+  section.featuresDisplay .outer .single .icon{
+
+    font-size: 39px;
+    margin-bottom: 25px;
+    display: inline-block;
+    width: 84px;
+    height: 84px;
+    border: 1px solid #d0d0d0;
+    text-align: center;
+    padding-top: 13px;
+    color: #b0b0b0;
+    border-radius: 100%;
+}
+
+   section.featuresDisplay .outer .single h2{
+
+    font-size: 19px;
+    margin-bottom: 35px;
+}
+
+    section.featuresDisplay .outer .single .text p{
+
+    padding: 0 25px;
+}
+    section.featuresDisplay .outer .single .button{
+
+    margin-top: 35px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+section.featuresDisplay .outer .single .button a{
+
+    border-color: #d0d0d0;
+    color: gray;
+    font-weight: 500;
+}

@@ -1,0 +1,46 @@
+/* Defaults */
+.r_c {
+    left: 0;
+    right: 0;
+    width: var(--containerWidth);
+    padding: var(--containerPadding);
+    position: relative;
+    margin: 0 auto;
+}
+
+.r_c:after {
+    content: " ";
+    display: block;
+    height: 0;
+    clear: both;
+}
+
+
+@media (max-width:  1200px) { /* @breakpoint[L] */
+    .r_c {
+        width: var(--containerWidthL);
+        padding: var(--containerPaddingL);
+    }
+}
+
+/* [M] Medium */
+@media (max-width:  992px) { /* @breakpoint[M] */
+    .r_c {
+        width: var(--containerWidthM);
+        padding: var(--containerPaddingM);
+    }
+}
+
+@media (max-width:  768px) { /* @breakpoint[S] */
+    .r_c {
+        width: var(--containerWidthS);
+        padding: var(--containerPaddingS);
+    }
+}
+
+@media (max-width:  576px) { /* @breakpoint[XS] */
+    .container {
+        width: var(--containerWidthXS);
+        padding: var(--containerPaddingXS);
+    }
+}

@@ -1,0 +1,102 @@
+
+input.inp,
+select.inp,
+textarea.inp
+{
+    width: 100%;
+
+    border: 1px solid #eff1f6;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    color: #595c65;
+    padding: 6px 12px;
+    position: relative;
+    font-size: 16px;
+    /*! font-weight: 600; */
+    font-weight: 500;
+    font-family: inherit;
+font-size: inherit;
+line-height: inherit;
+    -webkit-touch-callout: unset;
+    -webkit-user-select: unset;
+    -khtml-user-select: unset;
+    -moz-user-select: unset;
+    -ms-user-select: unset;
+    user-select: unset;
+    font-size: 14px;
+}
+input.inp.xl,
+select.inp.xl,
+textarea.inp.xl
+{
+
+    font-size: 26px;
+}
+input.inp.l,
+select.inp.l,
+textarea.inp.l
+{
+
+    font-size: 20px;
+}
+
+input.inp.s,
+select.inp.s,
+textarea.inp.s
+{
+
+    font-size: 15px;
+    padding: 5px 14px;
+}
+
+input.inp.xs,
+select.inp.xs,
+textarea.inp.xs
+{
+
+    font-size: 13px;
+    padding: 4px 14px;
+}
+
+
+
+
+select.inp{
+    cursor: pointer;
+}
+textarea.inp
+{
+
+    resize: vertical;
+    min-height: 86px;
+}
+.inpCheck,.inpRadio{
+
+}
+
+.inpCheck > label, .inpRadio > label{
+    margin-right: 10px;
+    cursor: pointer;
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Opera and Firefox */
+}
+.inpCheck.multiline > label, .inpRadio.multiline > label{
+        margin-right: 0;
+    margin-bottom:5px;
+display: block;
+}
+.inpCheck > label:last-of-type, .inpRadio > label:last-of-type{
+    margin-right: 0;
+}
+.inpCheck.multiline > label:last-of-type, .inpRadio.multiline > label:last-of-type{
+    margin-bottom:0;
+}
+.rocketInput > label > input, .inpRadio > label > input{
+    margin-right: 3px;
+}

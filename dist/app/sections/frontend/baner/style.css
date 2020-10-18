@@ -1,0 +1,133 @@
+/* ##  baner */
+section.baner {
+    position: relative;
+    background: #234c71;
+    background: -moz-linear-gradient(top, #234c71 0%, #183254 100%);
+    background: -webkit-linear-gradient(top, #234c71 0%, #183254 100%);
+    background: linear-gradient(to bottom, #1b3c68 0%, #000 100%);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+    overflow: hidden;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#234c 71', endColorstr='#183254', GradientType=0);
+    height: 598px;
+    top: 0;
+    left: 0;
+    right: 0;
+    border: 0;
+    z-index: 1;
+}
+section.baner .r_c{
+    z-index: 5;
+}
+
+section.baner .image{
+    z-index: 5;
+    width: 400px;
+    position: absolute;
+    top: 192px;
+    right: 75px;
+}
+section.baner .image img{
+    width: 100%;
+}
+section.baner .main{
+    z-index: 5;
+    float: left;
+    width: 50%;
+    position: absolute;
+    top: 234px;
+}
+section.baner .main h1 {
+
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: 300;
+}
+section.baner .main h1 span {
+
+    display: block;
+    font-size: 46px;
+    font-weight: 500;
+}
+section.baner .main h4 {
+
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 400;
+}
+
+section.baner .main h3 span {
+    font-weight: 600;
+    display: block;
+}
+
+section.baner .paralax {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.5;
+}
+
+
+
+
+
+
+
+
+
+section.baner .paralax .outer {
+    position: relative;
+    height: 100%;
+}
+
+section.baner .paralax .layerParalax {
+    display: block;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+section.baner .paralax .layerParalax.layer1 {
+    z-index: 1;
+    top: 188px;
+}
+
+section.baner .paralax .layerParalax.layer2 {
+    z-index: 2;
+    top: 308px;
+}
+
+section.baner .paralax .layerParalax.layer3 {
+    z-index: 3;
+    top: 455px;
+}
+
+section.baner .paralax .layerParalax.layer4 {
+    z-index: 4;
+    top: 650px;
+}
+
+section.baner .paralax img {
+    bottom: -200px;
+    width: 100%;
+}
+
+
+
+
+div.baner-holder{
+    margin-top: calc(100vh - 120px);
+    /*! padding: 100px; */
+    z-index: 2;
+    position: relative;
+    width: 100%;
+    height:1px;
+}

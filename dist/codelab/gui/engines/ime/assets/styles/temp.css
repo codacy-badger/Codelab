@@ -1,0 +1,75 @@
+
+main .box > h1{
+    font-size: 15px;
+    font-weight: 600;
+    padding: 12px 18px 12px;
+    background-color: #29507b;
+    margin-bottom: 15px;
+    /*! -webkit-border-radius: 14px; */
+    /*! -moz-border-radius: 14px; */
+    /*! border-radius: 14px; */
+}
+main .box > h1 .label{
+    /*! background-color: black; */
+    padding: 4px 12px;
+    /*! background-color: #c8c8c8; */
+    color: white
+    position: absolute;
+    right: -1px;
+    top: -1px;
+-webkit-border-top-right-radius: 15px;
+-webkit-border-bottom-left-radius: 15px;
+-moz-border-radius-topright: 15px;
+-moz-border-radius-bottomleft: 15px;
+border-top-right-radius: 15px;
+border-bottom-left-radius: 15px;
+    border: 1px solid #d9d9d9;
+    color: black;
+}
+main .box > .widget {
+    padding:11px 25px 20px;
+}
+main .box > .text {
+    padding:0 25px 20px;
+}
+main .box > .values {
+ padding:18px 8px 20px 17%;
+}
+main .box > .values .legend {
+
+    font-weight: 600;
+    margin-bottom: 17px;
+    color: #5d5d5d;
+    position: relative;
+    left: -18px;
+    font-size: 15px
+}
+main .box > .values ul {
+
+    list-style: none;
+}
+main .box > .values ul:after{
+   content: " ";
+   display: block;
+   height: 0;
+   clear: both;
+}
+
+main .box > .values ul li {
+float:left;
+    width: 50%;
+font-size: 12px;
+margin-bottom: 10px;
+    color:silver;
+}
+main .box > .values ul  li span{
+
+    display: block;
+    font-weight: 400;
+    font-size: 19px;
+    color: #646464;
+    font-weight: 600;
+}
+main .box > .full-char{
+    height: 100px;
+}

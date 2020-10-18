@@ -1,0 +1,278 @@
+
+
+	 section.feature-blocks{
+		padding: 75px 0px;
+		-webkit-box-shadow: inset 0px 0px 25px 0px rgba(0,0,0,0.75);
+		-moz-box-shadow: inset 0px 0px 25px 0px rgba(0,0,0,0.75);
+		box-shadow: inset 0px 0px 25px 0px rgba(0,0,0,0.75);
+		position: relative;
+		z-index: 4;
+	}
+
+	 section.feature-blocks:after{
+   content: " ";
+   display: block;
+   height: 0;
+   clear: both;
+
+}
+	 section.feature-blocks h2{
+
+	text-align: center;
+	font-size: 42px;
+	font-size: 38px;
+	font-weight: 900;
+	margin-bottom: 50px;
+	text-shadow: 2px 2px 0px rgba(0,0,0,0.05), 4px 4px 0px rgba(0,0,0,0.075);
+	}
+
+
+	 section.feature-blocks .text{
+
+	text-align: center;
+	margin-bottom: 50px;
+	text-shadow: 2px 2px 0px rgba(0,0,0,0.05), 4px 4px 0px rgba(0,0,0,0.075);
+	padding: 0px 175px;
+	}
+
+
+	 section.feature-blocks .items{
+
+	/*! border: 1px solid white; */
+	columns: 3;
+	column-gap: 5px;
+	position: relative;
+	}
+
+
+
+	 section.feature-blocks .items:after{
+   content: " ";
+   display: block;
+   height: 0;
+   clear: both;
+}
+
+	 section.feature-blocks .items .item{
+
+  display: inline-block;
+  vertical-align: top;
+
+  position: relative;
+  margin: 15px;
+  border-radius: 10px;
+  overflow: hidden;
+	}
+
+
+	 section.feature-blocks .items .item .inner{
+background-color: rgba(0,0,0,0.45);
+	position: relative;
+	padding: 20px 30px 42px;
+	border: 1px solid rgba(255,255,255,0.05);
+	/*! margin: 10px; */
+	/*! margin-bottom: 20px; */
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+		transform: scale(1);
+		cursor:pointer;
+/*! border-radius: 10px; */
+		overflow: hidden;
+
+z-index: 2;
+	}
+
+	 section.feature-blocks .items .item:hover .inner:after{
+ height:20px;
+
+	}
+
+	 section.feature-blocks .items .item .inner:hover{
+transform: scale(1.015);
+
+		z-index: 2;
+
+	}
+	 section.feature-blocks .items .item .icon{
+
+	float: left;
+	width: 68px;
+	height: 68px;
+	margin-right: 20px;
+	text-align: center;
+	font-size: 26px;
+	padding: 19px 0px;
+
+
+background: -moz-linear-gradient(135deg, #6c0e0e 0%,#c74040 25%,#c74040 48.5%,#c23838 0%,#752727 100%);
+
+background: -webkit-linear-gradient(135deg, #6c0e0e 0%,#c74040 25%,#c74040 48.5%,#c23838 0%,#752727 100%);
+
+background: linear-gradient(135deg, #6c0e0e 0%,#c74040 25%,#c74040 48.5%,#c23838 0%,#752727 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#c74040', endColorstr='#c74040',GradientType=1 );
+
+-webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.25);
+
+-moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.25);
+
+box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.25);
+		-webkit-border-radius: 255px;
+-moz-border-radius: 255px;
+border-radius: 255px;
+
+
+
+
+
+	}
+	 section.feature-blocks .items .item h3{
+
+	font-size: 24px;
+	font-weight: 300;
+	margin-bottom: 8px;
+	max-height: 105px;
+	overflow: hidden;
+	line-height: 33px;
+	position: relative;
+	}
+
+	 section.feature-blocks .items .item .inner .attribute{
+	font-weight: 300;
+		/*! opacity: 0.35; */
+		  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+	}
+	 section.feature-blocks .items .item:hover .inner .attribute{
+	/*! font-weight: 100; */
+		opacity: 1;
+	}
+	 section.feature-blocks .items .item .inner .attribute span{
+
+	color: white;
+	font-weight: 500;
+	}
+
+
+
+	 section.feature-blocks .items .item .inner .attributes{
+    text-align: center;
+	}
+
+	 section.feature-blocks .items .item .inner .attributes .attribute{
+
+	float: left;
+	width: 33%;
+	}
+	 section.feature-blocks .items .item .inner .attributes .attribute i{
+
+font-size: 32px;
+	}
+	 section.feature-blocks .items .item .inner .attributes .attribute span{
+    display: block;
+	}
+
+
+
+
+
+
+
+
+
+	 section.feature-blocks .items .item .inner .description{
+	position: relative;
+	margin-top: 10px;
+	font-weight: 300;
+	font-size: 13px;
+			/*! font-weight: 100; */
+		opacity: 0.35;
+		  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+	}
+	 section.feature-blocks .items .item:hover .inner .description{
+	/*! font-weight: 100; */
+		opacity: 1;
+	}
+
+ section.feature-blocks .items .item .layer{
+
+	position: absolute;
+	top: 0px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+	opacity: 0.2;
+	  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+	background-image: url('https://esossl-a.akamaihd.net/assets/img/cms/media/12decd6d1bbcf0b917da0a53539b64e2_the-elder-scrolls-online-dragonhold_wallpaper-1920x1080.jpg');
+	background-position: center;
+}
+ section.feature-blocks .items .item:hover .layer{
+
+	opacity: 0.5;
+}
+ section.feature-blocks .items .item .layer .outer{
+
+	top: 46%;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+	position: relative;
+}
+	 section.feature-blocks .items .item .layer .attribute{
+	/*! font-weight: 100; */
+	}
+	 section.feature-blocks .items .item .layer .attribute span{
+
+	color: #c74040;
+	font-weight: 500;
+	}
+	 section.feature-blocks .items .item .layer .description{
+	position: relative;
+	margin-top: 10px;
+	font-weight: 100;
+	}
+
+
+
+
+
+ section.feature-blocks .buttons{
+	text-align: center;
+	clear: both;
+	width: 100%;
+	display: block;
+	margin-top: 15px;
+}
+
+ section.feature-blocks .buttons .button{
+font-size: 18px;
+	font-weight: 100;
+border-bottom: 2px solid rgba(161, 161, 161, 0.1);
+background-color: rgba(0,0,0,0.25);
+padding: 10px 20px;
+border-radius: 10px;
+	  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+
+
+ section.feature-blocks .buttons .button:hover{
+border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+background-color: rgba(0,0,0,0.25);
+border-radius: 10px;
+}

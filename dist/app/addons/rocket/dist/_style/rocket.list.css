@@ -1,0 +1,68 @@
+ul.list{
+
+  list-style: none;
+}
+
+ul.list > li{
+  position: relative;
+  padding-left: 15px;
+}
+ul.list > li{
+  position: relative;
+  padding-left: 15px;
+}
+
+ul.list > li::before{
+content:"\2022";
+position: absolute;
+left: 0px;
+}
+
+ul.list > li > ul{
+  list-style: none;
+}
+
+
+ul.list > li > ul > li{
+  position: relative;
+  padding-left: 15px;
+}
+ul.list > li > ul > li::before{
+content:"\2022";
+position: absolute;
+left: 0px;
+  opacity:0.7;
+}
+
+
+
+
+
+
+
+
+
+ol.list{
+
+
+  padding-left: 15px;
+}
+
+ol.list > li{
+  position: relative;
+  padding-left: 8px;
+}
+ol.list > li{
+  position: relative;
+}
+
+
+ol.list > li > ol{
+  padding-left: 8px;
+}
+
+
+ol.list > li > ol > li{
+  position: relative;
+  padding-left: 8px;
+}

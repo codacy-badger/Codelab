@@ -1,0 +1,178 @@
+header.header {
+    padding: 25px 0px;
+    color: white;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 99;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+}
+
+header.header .logo {
+    display: flex;
+    width: 200px;
+    float: left;
+    position: relative;
+    top: 5px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+}
+
+header.header .logo .logo-img {}
+
+header.header .logo .logo-img img {
+    height: 52px;
+    position: relative;
+    top: 4px;
+    margin-right: 3px;
+}
+
+header.header .logo .logo-text {
+    font-weight: 100;
+    font-size: 24px;
+    display: inline-block;
+    padding: 7px 14px;
+    font-weight: 900;
+    background-color: #17a185;
+    -webkit-box-shadow: -25px 25px 50px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -25px 25px 50px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: -25px 25px 50px 0px rgba(0, 0, 0, 0.25);
+}
+
+header.header .logo .logo-text span {
+    font-weight: 100;
+}
+
+header.header .panel {
+    float: right;
+}
+
+header.header .mainMenu {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+header.header .mainMenu>ul {
+    padding: 20px;
+}
+
+header.header .mainMenu>ul>li {
+    display: inline-block;
+}
+
+header.header .mainMenu>ul>li>a {
+    padding: 5px 5px 5px;
+    margin-left: 10px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+    position: relative;
+}
+
+header.header .mainMenu>ul>li>a:after {
+    content: " ";
+    width: 0%;
+    height: 2px;
+    background-color: #17a185;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+}
+
+header.header .mainMenu>ul>li>a:hover:after {
+    width: 100%;
+}
+
+header.header .account {
+    margin-left: 10px;
+    float: right;
+    position: relative;
+    top: 8px;
+}
+
+header.header .account .image {
+    width: 42px;
+    height: 42px;
+    float: left;
+    position: relative;
+    top: 1px;
+    border: 1px solid white;
+    -webkit-border-radius: 255px;
+    -moz-border-radius: 255px;
+    border-radius: 255px;
+    overflow: hidden;
+}
+
+header.header .account .image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+header.header .account .username {
+    float: left;
+    position: relative;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    font-weight: 900;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+}
+
+header.header.sticky {
+    background-color: white;
+    padding: 0;
+    -webkit-box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.05);
+    -moz-box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.05);
+    box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.05);
+}
+
+header.header.sticky .logo {
+    top: 7px;
+}
+
+header.header.sticky .logo .logo-img {}
+
+header.header.sticky .logo .logo-img img {}
+
+header.header.sticky .logo .logo-text {}
+
+header.header.sticky .logo .logo-text span {}
+
+header.header.sticky .panel {
+    color: #676a6c;
+}
+
+header.header.sticky .mainMenu {}
+
+header.header.sticky .mainMenu>ul {}
+
+header.header.sticky .mainMenu>ul>li {}
+
+header.header.sticky .mainMenu>ul>li>a {}
+
+header.header.sticky .mainMenu>ul>li>a:hover {}
+
+header.header.sticky .account {}
+
+header.header.sticky .account .image {}
+
+header.header.sticky .account .image img {}
+
+header.header.sticky .account .username {}

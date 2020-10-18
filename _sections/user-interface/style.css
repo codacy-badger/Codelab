@@ -1,0 +1,45 @@
+
+
+	section.user-interface{
+    text-align: center;
+    /*! overflow: hidden; */
+    position: relative;
+    z-index: 4;
+    background-color:  var(--colorSecond);
+    padding-bottom: 75px;
+	}
+	section.user-interface .container{
+	padding: 0 50px;
+	}
+
+
+
+		section.user-interface .left{
+float:left;
+			width: 55%;
+padding-right: 25px;
+padding-top: 10px;
+		}
+
+		section.user-interface .left h1{
+
+	font-size: 32px;
+	color: white;
+		}
+
+		section.user-interface .left .text{
+
+	font-size: 15px;
+	text-align: left;
+		}
+
+		section.user-interface .right{
+float:right;
+			width: 45%;
+padding-left: 50px;
+		}
+
+		section.user-interface .right img{
+
+	width: 100%;
+		}

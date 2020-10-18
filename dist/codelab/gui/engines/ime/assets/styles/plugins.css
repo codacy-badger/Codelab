@@ -1,0 +1,75 @@
+
+
+/* DATATABLES  ##################################### */
+.dataTables_length {
+   margin-bottom:15px;
+}
+ .dataTables_length select{
+    border: 1px solid #eff1f6;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    color: #595c65;
+    padding: 3px 8px;
+    position: relative;
+    font-size: 16px;
+    /*! font-weight: 600; */
+    font-weight: 500;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    -webkit-touch-callout: unset;
+    -webkit-user-select: unset;
+    -khtml-user-select: unset;
+    -moz-user-select: unset;
+    -ms-user-select: unset;
+    user-select: unset;
+    font-size: 14px;
+}
+table.dataTable.display tbody tr img.small{
+    width: 46px;
+    height:46px;
+    object-fit: cover;
+}
+table.dataTable thead th.min{
+width: 1%;
+}
+table.dataTable thead th.max{
+width: 100%;
+}
+table.dataTable thead th.action{
+text-align: right;
+}
+
+table.dataTable td{
+    vertical-align: top;
+}
+table.dataTable td > div.center{
+   text-align: center;
+}
+table.dataTable td i.color-green{ 
+color:var(--green)
+}
+table.dataTable td i.color-red{
+color:var(--red)
+}
+table.dataTable td > div.action{
+   text-align: right;
+}
+.dataTables_wrapper .dataTables_processing{
+   
+   top: 69px !important;
+   bottom: 172px !important;
+   height: calc(100% - 109px) !important;
+   background: rgba(255, 255, 255,0.95) !important;
+   z-index: 4;
+   margin: unset !important;
+   left: 0 !important;
+   font-size: unset !important;
+   padding-top: 40px !important;
+   color: unset !important;
+}
+table.dataTable .dataTables_empty{
+   color:red;
+   padding: 25px 10px;
+}

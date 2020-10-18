@@ -1,0 +1,32 @@
+section.features{
+    
+}
+section.features .container{
+    padding: 0 50px;
+}
+
+section.features ul{
+    list-style: none;
+  float: left;
+  width: 50%; 
+  padding: 0 50px;
+}
+
+section.features ul li{
+    position: relative;
+  margin-bottom: 10px;
+    line-height: 24px;
+    padding-left: 22px;
+}
+ 
+section.features ul li::before{
+    
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+content: "\f00c";
+  color:var(--color);
+  position: relative;
+  font-weight: 100;
+  position: absolute;
+  left: 0;
+}

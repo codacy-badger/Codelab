@@ -1,0 +1,86 @@
+:root {
+
+/* MAIN ########## */
+    --bodyFontSize: 15px;
+    --bodyColor: #494949;
+    --bodyBcg: #fcfcfc;
+
+/* BREAKPOINTS ########## */
+
+    --breakpointL: 1200px;
+    --breakpointM: 992px;
+    --breakpointS: 768px;
+    --breakpointXS: 576px;
+
+/* FONTS ########## */
+
+    --font: 'regular';
+    --fontSecond: 'Open Sans', sans-serif;
+    --fontThird: Arial, Helvetica, sans-serif;
+
+/* CONTAINER ########## */
+
+     --containerWidth: 1140px;
+     --containerWidthL: 960px;
+     --containerWidthM: 720px;
+     --containerWidthS: 540px;
+     --containerWidthXS: 100%;
+     --containerPadding: 0;
+     --containerPaddingL: 0;
+     --containerPaddingM: 0;
+     --containerPaddingS: 0;
+     --containerPaddingXS: 0 15px;
+
+/* MAIN COLORS ########## */
+
+      --colorLighter:#1b4370;
+      --colorLight:#193c65;
+      --color:#18375C;
+      --colorDark:#152f4f;
+      --colorDarker:#122844;
+
+      --colorSecondLight:#ff8a00;
+      --colorSecond:#ff6c00;
+      --colorSecondDark:#be5000;
+
+      --colorThirdLight:#2fbf46;
+      --colorThird:#009e19;
+      --colorThirdDark:#006310;
+
+ /* MAIN ########## */
+        --white:#fff;
+        --black:#000;
+ /* MAIN ########## */
+      --blueLight:#004896;
+      --blue:#004896;
+      --blueDark:#004896;
+
+      --purpleLight:#4676aa;
+      --purple:#7d0096;
+      --purpleDark:#193d65;
+
+      --pinkLight:#4676aa;
+      --pink:#aa0099;
+      --pinkDark:#193d65;
+
+      --greenLight:#4676aa;
+      --green:#7d0096;
+      --greenDark:#193d65;
+
+      --yellowLight:#4676aa;
+      --yellow:#29507b;
+      --yellowDark:#193d65;
+
+      --orangeLight:#4676aa;
+      --orange:#29507b;
+      --orangeDark:#193d65;
+
+      --redLight:#4676aa;
+      --red:#29507b;
+      --redDark:#193d65;
+
+      --brownLight:#4676aa;
+      --brown:#29507b;
+      --brownDark:#193d65;
+
+}
